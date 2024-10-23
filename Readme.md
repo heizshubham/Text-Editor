@@ -32,11 +32,11 @@ A simple Java-based Text Editor that allows users to open, edit, and save text f
 
 
 
-##Code Explanation
+## Code Explanation
 
-**Main Window: The TextEditor class extends JFrame to create the main application window.
-**Menus: The JMenuBar contains two menus, File and Edit.
-**File Menu:
+** Main Window:** The TextEditor class extends JFrame to create the main application window.
+** Menus:** The JMenuBar contains two menus, File and Edit.
+** File Menu:**
 Open: Opens a file and displays its content in the JTextArea.
 Save: Saves the content of the JTextArea to a file.
 Edit Menu:
@@ -54,7 +54,7 @@ Add features like cut, copy, paste, and find functionality.
 Improve error handling for file operations.
 
 
-##Author
+## Author
 Developed by Shubham Pandey (@heizshubham).
 
 
