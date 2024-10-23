@@ -2,7 +2,7 @@
 
 A simple Java-based Text Editor that allows users to open, edit, and save text files with basic functionality like word wrapping.
 
-<img width="497" alt="image" src="https://github.com/user-attachments/assets/0e6424fb-1b7d-441a-afc7-20395b6bf7fa">
+<img width="963" alt="image" src="https://github.com/user-attachments/assets/dc73a10e-2590-4e81-aeed-b594c874db55">
 
 <img width="552" alt="image" src="https://github.com/user-attachments/assets/e29fb64c-8c7d-491b-9e53-12127ad87ebc">
 
